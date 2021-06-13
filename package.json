@@ -1,6 +1,6 @@
 {
   "name": "@1onlinesolution/dws-express-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quick Express.js application setup",
   "main": "index.js",
   "directories": {
@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "@1onlinesolution/dws-http": "^0.0.3",
+    "@1onlinesolution/dws-log": "^0.0.10",
     "@1onlinesolution/dws-session": "^0.0.2",
     "@1onlinesolution/dws-utils": "^0.0.2",
     "body-parser": "^1.19.0",
@@ -47,7 +48,8 @@
     "express-validator": "^6.11.1",
     "handlebars": "^4.7.7",
     "helmet": "^4.6.0",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "morgan": "^1.10.0"
   },
   "mocha": {
     "watch-files": [
