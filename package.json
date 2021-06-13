@@ -1,6 +1,6 @@
 {
   "name": "@1onlinesolution/dws-express-app",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Quick Express.js application setup",
   "main": "index.js",
   "directories": {
