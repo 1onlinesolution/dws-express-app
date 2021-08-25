@@ -1,6 +1,6 @@
 {
   "name": "@1onlinesolution/dws-express-app",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Quick Express.js application setup",
   "main": "index.js",
   "directories": {
@@ -33,9 +33,9 @@
   },
   "dependencies": {
     "@1onlinesolution/dws-http": "^0.0.3",
-    "@1onlinesolution/dws-log": "^0.0.10",
+    "@1onlinesolution/dws-log": "^0.2.1",
     "@1onlinesolution/dws-session": "^0.0.2",
-    "@1onlinesolution/dws-utils": "^0.0.2",
+    "@1onlinesolution/dws-utils": "^0.4.0",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "connect-flash": "^0.1.1",
